@@ -1,0 +1,8 @@
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\bin\Debug\Breznjak-Student_project.exe.config
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\obj\Debug\Breznjak-Project.App.csprojResolveAssemblyReference.cache
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\bin\Debug\Breznjak-Student_project.exe
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\bin\Debug\Breznjak-Student_project.pdb
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\bin\Debug\ClassLibrary1.dll
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\bin\Debug\ClassLibrary1.pdb
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\obj\Debug\Breznjak-Student_project.exe
+G:\My Documents\Programiranje\studentProject1-master\Breznjak-Student_project\obj\Debug\Breznjak-Student_project.pdb
